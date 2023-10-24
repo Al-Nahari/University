@@ -1,0 +1,66 @@
+body{
+    background-color: #0e0a40;
+}
+.BackMenu{
+    color: #17eaff;
+    font-size: xx-large; 
+}
+.inputserch{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: -116px;
+    width: 100%;
+}
+div{
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+    margin-left: 16%;
+}
+div form select{
+    background-color: inherit;
+   width: 20%;
+   height: 20%;
+   font-size:large;
+   margin: 0.5% 0.5%;
+   color: aqua;
+   text-align: center;
+}
+div form select option{
+    background-color: midnightblue;
+    color: aqua;
+    border-color: aqua;
+}
+::placeholder{
+    color: aqua;
+    background-color: inherit;
+    text-align: center;
+}
+div form input[type=Number] , div form input[type=password] , div form input[type=text] , div form input[type=submit]{
+background-color: inherit;
+color: aqua;
+font-size:large;
+text-align: center;
+}
+table{
+    width: 100%;
+    border: cyan;
+    text-align: center;
+    color: rgb(248, 255, 255);
+    margin-bottom: 5%;
+}
+th{
+    font-size:x-large;
+}
+td{
+    font-size:x-large; 
+}
+td form input{
+    background-color: inherit;
+    text-align: center;
+    color: rgb(248, 255, 255);
+    border-color: rgb(248, 255, 255);
+    border-radius: 81%;
+    font-size:x-large;
+}
+
