@@ -1,5 +1,5 @@
 <?php
-include('p/update.php');
+include('pdate.php');
 include('conn.php');
 
 
